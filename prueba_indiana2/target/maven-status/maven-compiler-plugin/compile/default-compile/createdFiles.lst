@@ -1,0 +1,10 @@
+model\IndianaJones.class
+model\Escenario.class
+view\VistaConsola.class
+model\Gema.class
+model\Partida.class
+model\Usuario.class
+model\Personaje.class
+model\Coordenada.class
+model\Serpiente.class
+controller\JuegoController.class
